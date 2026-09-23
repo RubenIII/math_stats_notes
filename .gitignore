@@ -2,3 +2,17 @@
 # Python
 #==========
 .ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Virtual envoroments
+.venv/
+venv/
